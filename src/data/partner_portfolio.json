@@ -1,0 +1,172 @@
+[
+ {
+  "district_id": "KH0301",
+  "clients": 230,
+  "value_usd": 353000
+ },
+ {
+  "district_id": "KH0302",
+  "clients": 550,
+  "value_usd": 1221000
+ },
+ {
+  "district_id": "KH0303",
+  "clients": 610,
+  "value_usd": 1954000
+ },
+ {
+  "district_id": "KH0305",
+  "clients": 240,
+  "value_usd": 473000
+ },
+ {
+  "district_id": "KH0306",
+  "clients": 730,
+  "value_usd": 1621000
+ },
+ {
+  "district_id": "KH0307",
+  "clients": 180,
+  "value_usd": 446000
+ },
+ {
+  "district_id": "KH0308",
+  "clients": 830,
+  "value_usd": 1669000
+ },
+ {
+  "district_id": "KH0313",
+  "clients": 190,
+  "value_usd": 350000
+ },
+ {
+  "district_id": "KH0314",
+  "clients": 440,
+  "value_usd": 666000
+ },
+ {
+  "district_id": "KH0315",
+  "clients": 230,
+  "value_usd": 757000
+ },
+ {
+  "district_id": "KH0801",
+  "clients": 540,
+  "value_usd": 1837000
+ },
+ {
+  "district_id": "KH0802",
+  "clients": 330,
+  "value_usd": 579000
+ },
+ {
+  "district_id": "KH0803",
+  "clients": 730,
+  "value_usd": 1574000
+ },
+ {
+  "district_id": "KH0804",
+  "clients": 710,
+  "value_usd": 2194000
+ },
+ {
+  "district_id": "KH0805",
+  "clients": 260,
+  "value_usd": 466000
+ },
+ {
+  "district_id": "KH0806",
+  "clients": 590,
+  "value_usd": 1379000
+ },
+ {
+  "district_id": "KH0807",
+  "clients": 590,
+  "value_usd": 1115000
+ },
+ {
+  "district_id": "KH0808",
+  "clients": 210,
+  "value_usd": 466000
+ },
+ {
+  "district_id": "KH0809",
+  "clients": 250,
+  "value_usd": 540000
+ },
+ {
+  "district_id": "KH0810",
+  "clients": 370,
+  "value_usd": 687000
+ },
+ {
+  "district_id": "KH0811",
+  "clients": 300,
+  "value_usd": 864000
+ },
+ {
+  "district_id": "KH1401",
+  "clients": 410,
+  "value_usd": 1257000
+ },
+ {
+  "district_id": "KH1402",
+  "clients": 560,
+  "value_usd": 1264000
+ },
+ {
+  "district_id": "KH1403",
+  "clients": 460,
+  "value_usd": 1497000
+ },
+ {
+  "district_id": "KH1404",
+  "clients": 570,
+  "value_usd": 1276000
+ },
+ {
+  "district_id": "KH1405",
+  "clients": 870,
+  "value_usd": 3018000
+ },
+ {
+  "district_id": "KH1406",
+  "clients": 200,
+  "value_usd": 417000
+ },
+ {
+  "district_id": "KH1407",
+  "clients": 350,
+  "value_usd": 863000
+ },
+ {
+  "district_id": "KH1408",
+  "clients": 720,
+  "value_usd": 2067000
+ },
+ {
+  "district_id": "KH1409",
+  "clients": 860,
+  "value_usd": 2603000
+ },
+ {
+  "district_id": "KH1410",
+  "clients": 630,
+  "value_usd": 1947000
+ },
+ {
+  "district_id": "KH1411",
+  "clients": 810,
+  "value_usd": 2197000
+ },
+ {
+  "district_id": "KH1412",
+  "clients": 320,
+  "value_usd": 522000
+ },
+ {
+  "district_id": "KH1413",
+  "clients": 480,
+  "value_usd": 1286000
+ }
+]

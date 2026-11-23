@@ -1,0 +1,29 @@
+.toggle {
+  display: inline-flex;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.btn {
+  padding: 6px 14px;
+  border: 0;
+  background: var(--surface);
+  color: var(--text-muted);
+  font: inherit;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.btn + .btn {
+  border-left: 1px solid var(--border);
+}
+
+.btn[lang='km'] {
+  font-family: var(--font-khmer);
+}
+
+.on {
+  background: var(--accent);
+  color: #fff;
+}

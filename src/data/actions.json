@@ -1,0 +1,7 @@
+[
+  { "id": "harvest_early", "en": "Harvest early if the grain is mature.", "km": "ប្រមូលផលឲ្យបានឆាប់ ប្រសិនបើគ្រាប់ស្រូវទុំហើយ។", "_review": true },
+  { "id": "delay_transplant", "en": "Delay transplanting by about one week.", "km": "ពន្យារពេលស្ទូងប្រហែលមួយសប្តាហ៍។", "_review": true },
+  { "id": "move_inputs", "en": "Move seed and fertiliser to higher ground.", "km": "រើគ្រាប់ពូជ និងជី ទៅទុកនៅកន្លែងខ្ពស់។", "_review": true },
+  { "id": "contact_lender", "en": "Contact your lender early if you expect losses.", "km": "ទាក់ទងស្ថាប័នឥណទានរបស់អ្នកឲ្យបានឆាប់ ប្រសិនបើអ្នករំពឹងថានឹងខាតបង់។", "_review": true },
+  { "id": "monitor", "en": "No action needed. Keep monitoring alerts.", "km": "មិនចាំបាច់ធ្វើអ្វីទេ។ សូមបន្តតាមដានការជូនដំណឹង។", "_review": true }
+]

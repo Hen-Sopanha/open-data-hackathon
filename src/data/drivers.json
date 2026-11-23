@@ -1,0 +1,11 @@
+[
+  { "id": "upstream_discharge_rising", "source": "GloFAS", "en": "Upstream river discharge rising", "km": "លំហូរទឹកទន្លេពីខាងលើកំពុងកើនឡើង", "_review": true },
+  { "id": "mekong_level_high", "source": "MRC", "en": "Mekong water level near flood alert level", "km": "កម្ពស់ទឹកទន្លេមេគង្គជិតដល់កម្រិតប្រុងប្រយ័ត្ន", "_review": true },
+  { "id": "rain_3day_high", "source": "CHIRPS", "en": "Heavy rain in the last 3 days", "km": "ភ្លៀងធ្លាក់ខ្លាំងក្នុងរយៈពេល ៣ ថ្ងៃចុងក្រោយ", "_review": true },
+  { "id": "rain_forecast_high", "source": "Open-Meteo", "en": "Heavy rain forecast this week", "km": "មានការព្យាករថានឹងមានភ្លៀងធ្លាក់ខ្លាំងនៅសប្តាហ៍នេះ", "_review": true },
+  { "id": "soil_saturated", "source": "CHIRPS", "en": "Soil already saturated from recent rain", "km": "ដីឆ្អែតទឹករួចហើយ ដោយសារភ្លៀងថ្មីៗ", "_review": true },
+  { "id": "low_lying_floodplain", "source": "Sentinel-1", "en": "Low-lying area that flooded in past years", "km": "តំបន់ទំនាបដែលធ្លាប់លិចទឹកក្នុងឆ្នាំមុនៗ", "_review": true },
+  { "id": "satellite_water_expanding", "source": "Sentinel-1", "en": "Satellite shows standing water expanding", "km": "រូបភាពផ្កាយរណបបង្ហាញថាផ្ទៃទឹកកំពុងរីកធំ", "_review": true },
+  { "id": "river_levels_falling", "source": "MRC", "en": "River levels falling", "km": "កម្ពស់ទឹកទន្លេកំពុងស្រក", "_review": true },
+  { "id": "little_rain", "source": "Open-Meteo", "en": "Little rain recorded or forecast", "km": "មានភ្លៀងតិចតួច ទាំងបច្ចុប្បន្ន និងការព្យាករ", "_review": true }
+]

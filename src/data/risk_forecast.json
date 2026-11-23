@@ -1,0 +1,2119 @@
+{
+ "generated_at": "2026-11-23",
+ "_demo": "MOCK DATA, not real model output",
+ "districts": [
+  {
+   "district_id": "KH0301",
+   "risk_level": "low",
+   "probability": 0.18,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.17
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.16
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH0302",
+   "risk_level": "low",
+   "probability": 0.19,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.21
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.15
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.15
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.13
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH0303",
+   "risk_level": "low",
+   "probability": 0.16,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.12
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.12
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.1
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH0305",
+   "risk_level": "low",
+   "probability": 0.1,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.1
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.08
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.11
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.09
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.08
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.07
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.07
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.06
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.1
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH0306",
+   "risk_level": "low",
+   "probability": 0.19,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.2
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.17
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.17
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.16
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH0307",
+   "risk_level": "medium",
+   "probability": 0.5,
+   "drivers": [
+    "soil_saturated",
+    "rain_forecast_high"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "medium",
+     "probability": 0.52
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "medium",
+     "probability": 0.55
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "medium",
+     "probability": 0.55
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "medium",
+     "probability": 0.58
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "medium",
+     "probability": 0.59
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "medium",
+     "probability": 0.61
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "medium",
+     "probability": 0.57
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.59
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.52
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.5
+    }
+   ],
+   "action_id": "contact_lender"
+  },
+  {
+   "district_id": "KH0308",
+   "risk_level": "high",
+   "probability": 0.83,
+   "drivers": [
+    "upstream_discharge_rising",
+    "rain_3day_high",
+    "low_lying_floodplain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "high",
+     "probability": 0.84
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "high",
+     "probability": 0.91
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "high",
+     "probability": 0.84
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "high",
+     "probability": 0.77
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "high",
+     "probability": 0.7
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "medium",
+     "probability": 0.62
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "medium",
+     "probability": 0.58
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.51
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.47
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.43
+    }
+   ],
+   "action_id": "move_inputs"
+  },
+  {
+   "district_id": "KH0313",
+   "risk_level": "low",
+   "probability": 0.07,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.07
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.1
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.08
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.09
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.05
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.06
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.07
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.08
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.07
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.06
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH0314",
+   "risk_level": "medium",
+   "probability": 0.56,
+   "drivers": [
+    "upstream_discharge_rising",
+    "rain_forecast_high"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "medium",
+     "probability": 0.52
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "medium",
+     "probability": 0.54
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "medium",
+     "probability": 0.51
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "medium",
+     "probability": 0.49
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "medium",
+     "probability": 0.45
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "medium",
+     "probability": 0.45
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "medium",
+     "probability": 0.43
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.39
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.38
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.39
+    }
+   ],
+   "action_id": "move_inputs"
+  },
+  {
+   "district_id": "KH0315",
+   "risk_level": "low",
+   "probability": 0.2,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.2
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.15
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.15
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH0801",
+   "risk_level": "low",
+   "probability": 0.11,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.11
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.11
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.09
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.12
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.08
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.09
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.09
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.07
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.07
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH0802",
+   "risk_level": "medium",
+   "probability": 0.56,
+   "drivers": [
+    "soil_saturated",
+    "rain_forecast_high"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "medium",
+     "probability": 0.57
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "medium",
+     "probability": 0.61
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "high",
+     "probability": 0.67
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "high",
+     "probability": 0.7
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "high",
+     "probability": 0.66
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "high",
+     "probability": 0.65
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "high",
+     "probability": 0.67
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.62
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.61
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.6
+    }
+   ],
+   "action_id": "contact_lender"
+  },
+  {
+   "district_id": "KH0803",
+   "risk_level": "medium",
+   "probability": 0.54,
+   "drivers": [
+    "soil_saturated",
+    "rain_forecast_high"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "medium",
+     "probability": 0.5
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "medium",
+     "probability": 0.52
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "medium",
+     "probability": 0.51
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "medium",
+     "probability": 0.49
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "medium",
+     "probability": 0.42
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "medium",
+     "probability": 0.43
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "medium",
+     "probability": 0.4
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.41
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.36
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.35
+    }
+   ],
+   "action_id": "move_inputs"
+  },
+  {
+   "district_id": "KH0804",
+   "risk_level": "high",
+   "probability": 0.71,
+   "drivers": [
+    "upstream_discharge_rising",
+    "mekong_level_high",
+    "low_lying_floodplain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "high",
+     "probability": 0.7
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "high",
+     "probability": 0.77
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "high",
+     "probability": 0.73
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "high",
+     "probability": 0.66
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "medium",
+     "probability": 0.59
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "medium",
+     "probability": 0.56
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "medium",
+     "probability": 0.49
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.47
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.39
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.35
+    }
+   ],
+   "action_id": "harvest_early"
+  },
+  {
+   "district_id": "KH0805",
+   "risk_level": "medium",
+   "probability": 0.54,
+   "drivers": [
+    "soil_saturated",
+    "rain_forecast_high"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "medium",
+     "probability": 0.54
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "medium",
+     "probability": 0.52
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "medium",
+     "probability": 0.46
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "medium",
+     "probability": 0.5
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "medium",
+     "probability": 0.46
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "medium",
+     "probability": 0.4
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "medium",
+     "probability": 0.43
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.42
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.39
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.33
+    }
+   ],
+   "action_id": "move_inputs"
+  },
+  {
+   "district_id": "KH0806",
+   "risk_level": "high",
+   "probability": 0.71,
+   "drivers": [
+    "upstream_discharge_rising",
+    "rain_3day_high",
+    "low_lying_floodplain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "high",
+     "probability": 0.75
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "high",
+     "probability": 0.78
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "high",
+     "probability": 0.75
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "high",
+     "probability": 0.72
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "high",
+     "probability": 0.7
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "medium",
+     "probability": 0.64
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "medium",
+     "probability": 0.59
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.52
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.48
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.45
+    }
+   ],
+   "action_id": "harvest_early"
+  },
+  {
+   "district_id": "KH0807",
+   "risk_level": "medium",
+   "probability": 0.45,
+   "drivers": [
+    "soil_saturated",
+    "rain_forecast_high"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "medium",
+     "probability": 0.45
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "medium",
+     "probability": 0.53
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "medium",
+     "probability": 0.55
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "medium",
+     "probability": 0.54
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "medium",
+     "probability": 0.54
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "medium",
+     "probability": 0.57
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "medium",
+     "probability": 0.55
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.48
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.51
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.45
+    }
+   ],
+   "action_id": "move_inputs"
+  },
+  {
+   "district_id": "KH0808",
+   "risk_level": "low",
+   "probability": 0.19,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.2
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.15
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.17
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.16
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH0809",
+   "risk_level": "low",
+   "probability": 0.21,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.2
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.2
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.17
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.2
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.17
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.15
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.14
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH0810",
+   "risk_level": "medium",
+   "probability": 0.44,
+   "drivers": [
+    "soil_saturated",
+    "rain_forecast_high"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "medium",
+     "probability": 0.47
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "medium",
+     "probability": 0.45
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "medium",
+     "probability": 0.48
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "medium",
+     "probability": 0.49
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "medium",
+     "probability": 0.53
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "medium",
+     "probability": 0.5
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "medium",
+     "probability": 0.5
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.5
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.47
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.48
+    }
+   ],
+   "action_id": "move_inputs"
+  },
+  {
+   "district_id": "KH0811",
+   "risk_level": "low",
+   "probability": 0.09,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.07
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.09
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.08
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.07
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.09
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.1
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.09
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.05
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.07
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.07
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH1401",
+   "risk_level": "medium",
+   "probability": 0.52,
+   "drivers": [
+    "upstream_discharge_rising",
+    "rain_forecast_high"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "medium",
+     "probability": 0.53
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "medium",
+     "probability": 0.57
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "medium",
+     "probability": 0.59
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "medium",
+     "probability": 0.62
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "medium",
+     "probability": 0.64
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "high",
+     "probability": 0.65
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "medium",
+     "probability": 0.62
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.59
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.58
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.56
+    }
+   ],
+   "action_id": "delay_transplant"
+  },
+  {
+   "district_id": "KH1402",
+   "risk_level": "low",
+   "probability": 0.19,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.15
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.14
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH1403",
+   "risk_level": "low",
+   "probability": 0.06,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.06
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.07
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.06
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.04
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.08
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.06
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.08
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.07
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.08
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.05
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH1404",
+   "risk_level": "low",
+   "probability": 0.21,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.2
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.17
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.22
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.2
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.21
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.2
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.2
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.15
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH1405",
+   "risk_level": "low",
+   "probability": 0.17,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.15
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.15
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.14
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH1406",
+   "risk_level": "medium",
+   "probability": 0.6,
+   "drivers": [
+    "soil_saturated",
+    "rain_forecast_high"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "medium",
+     "probability": 0.64
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "high",
+     "probability": 0.66
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "high",
+     "probability": 0.7
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "high",
+     "probability": 0.69
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "high",
+     "probability": 0.72
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "high",
+     "probability": 0.73
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "high",
+     "probability": 0.69
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "high",
+     "probability": 0.65
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "high",
+     "probability": 0.65
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.61
+    }
+   ],
+   "action_id": "move_inputs"
+  },
+  {
+   "district_id": "KH1407",
+   "risk_level": "high",
+   "probability": 0.83,
+   "drivers": [
+    "upstream_discharge_rising",
+    "rain_3day_high",
+    "low_lying_floodplain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "high",
+     "probability": 0.83
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "high",
+     "probability": 0.87
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "high",
+     "probability": 0.83
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "high",
+     "probability": 0.78
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "high",
+     "probability": 0.72
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "medium",
+     "probability": 0.63
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "medium",
+     "probability": 0.58
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.5
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.5
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.44
+    }
+   ],
+   "action_id": "move_inputs"
+  },
+  {
+   "district_id": "KH1408",
+   "risk_level": "medium",
+   "probability": 0.56,
+   "drivers": [
+    "soil_saturated",
+    "rain_forecast_high"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "medium",
+     "probability": 0.55
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "medium",
+     "probability": 0.55
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "medium",
+     "probability": 0.5
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "medium",
+     "probability": 0.5
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "medium",
+     "probability": 0.49
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "medium",
+     "probability": 0.45
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "medium",
+     "probability": 0.41
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.42
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.41
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.34
+    }
+   ],
+   "action_id": "move_inputs"
+  },
+  {
+   "district_id": "KH1409",
+   "risk_level": "low",
+   "probability": 0.14,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.12
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.1
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.09
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH1410",
+   "risk_level": "low",
+   "probability": 0.17,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.19
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.13
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.12
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.15
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.15
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH1411",
+   "risk_level": "low",
+   "probability": 0.14,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.16
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.14
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.11
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.12
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.1
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.12
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.11
+    }
+   ],
+   "action_id": "monitor"
+  },
+  {
+   "district_id": "KH1412",
+   "risk_level": "high",
+   "probability": 0.76,
+   "drivers": [
+    "upstream_discharge_rising",
+    "mekong_level_high",
+    "low_lying_floodplain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "high",
+     "probability": 0.79
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "high",
+     "probability": 0.82
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "high",
+     "probability": 0.84
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "high",
+     "probability": 0.85
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "high",
+     "probability": 0.81
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "high",
+     "probability": 0.77
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "high",
+     "probability": 0.66
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "medium",
+     "probability": 0.62
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "medium",
+     "probability": 0.58
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "medium",
+     "probability": 0.53
+    }
+   ],
+   "action_id": "move_inputs"
+  },
+  {
+   "district_id": "KH1413",
+   "risk_level": "low",
+   "probability": 0.25,
+   "drivers": [
+    "river_levels_falling",
+    "little_rain"
+   ],
+   "forecast": [
+    {
+     "date": "2026-11-24",
+     "risk_level": "low",
+     "probability": 0.27
+    },
+    {
+     "date": "2026-11-25",
+     "risk_level": "low",
+     "probability": 0.25
+    },
+    {
+     "date": "2026-11-26",
+     "risk_level": "low",
+     "probability": 0.23
+    },
+    {
+     "date": "2026-11-27",
+     "risk_level": "low",
+     "probability": 0.24
+    },
+    {
+     "date": "2026-11-28",
+     "risk_level": "low",
+     "probability": 0.21
+    },
+    {
+     "date": "2026-11-29",
+     "risk_level": "low",
+     "probability": 0.2
+    },
+    {
+     "date": "2026-11-30",
+     "risk_level": "low",
+     "probability": 0.21
+    },
+    {
+     "date": "2026-12-01",
+     "risk_level": "low",
+     "probability": 0.18
+    },
+    {
+     "date": "2026-12-02",
+     "risk_level": "low",
+     "probability": 0.22
+    },
+    {
+     "date": "2026-12-03",
+     "risk_level": "low",
+     "probability": 0.19
+    }
+   ],
+   "action_id": "monitor"
+  }
+ ]
+}

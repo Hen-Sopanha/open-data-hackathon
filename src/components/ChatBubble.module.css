@@ -1,0 +1,77 @@
+.bubble {
+  max-width: 86%;
+  padding: 8px 12px 4px;
+  border-radius: 14px;
+  box-shadow: 0 1px 1px rgba(16, 36, 46, 0.12);
+  white-space: pre-line;
+  opacity: 0;
+  animation: pop 0.35s ease-out forwards;
+}
+
+@keyframes pop {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.bot {
+  align-self: flex-start;
+  background: #fff;
+  border-bottom-left-radius: 4px;
+}
+
+.user {
+  align-self: flex-end;
+  background: #d5ece9;
+  border-bottom-right-radius: 4px;
+}
+
+/* coloured left edge on the alert message = its risk level */
+.high {
+  border-left: 4px solid var(--risk-high);
+}
+.medium {
+  border-left: 4px solid var(--risk-medium);
+}
+.low {
+  border-left: 4px solid var(--risk-low);
+}
+
+.km {
+  font-family: var(--font-khmer);
+  font-size: 15.5px;
+  line-height: 1.75;
+  color: var(--text);
+}
+
+.en {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px dashed var(--border);
+  font-family: var(--font-latin);
+  font-size: 13.5px;
+  line-height: 1.45;
+  color: var(--text-muted);
+}
+
+.time {
+  text-align: right;
+  font-family: var(--font-latin);
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+.date {
+  align-self: center;
+  padding: 2px 12px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.85);
+  font-size: 12px;
+  color: var(--text-muted);
+}

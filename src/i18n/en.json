@@ -1,0 +1,150 @@
+{
+  "brand": "SrovSafe",
+  "tagline": "Flood early warning",
+  "nav": {
+    "dashboard": "Dashboard",
+    "replay": "2025 Replay",
+    "alert": "Farmer Alert",
+    "partners": "Partners"
+  },
+  "lang": {
+    "label": "Language"
+  },
+  "footer": "Prototype · Demo data · Open Data X AI Venture Hackathon 1.0",
+  "pages": {
+    "dashboard": {
+      "title": "Flood risk dashboard",
+      "subtitle": "District flood risk for the next 10 days."
+    },
+    "replay": {
+      "title": "2025 flood replay",
+      "subtitle": "Predicted risk vs. observed flooding, 1 Sep – 15 Oct 2025."
+    },
+    "alert": {
+      "title": "Farmer alert preview",
+      "subtitle": "What a farmer receives in the chat bot."
+    },
+    "partners": {
+      "title": "Partner view",
+      "subtitle": "Portfolio exposure for lenders and insurers."
+    }
+  },
+  "risk": {
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High"
+  },
+  "legend": {
+    "title": "Flood risk",
+    "updated": "Last updated",
+    "range": {
+      "low": "< 35%",
+      "medium": "35–65%",
+      "high": "≥ 65%"
+    }
+  },
+  "panel": {
+    "empty": "Click a district on the map to see its flood risk, 10-day forecast and recommended action.",
+    "close": "Close",
+    "riskNow": "Flood risk now",
+    "forecast": "Next 10 days",
+    "why": "Why",
+    "action": "Recommended farmer action"
+  },
+  "replay": {
+    "play": "Play",
+    "pause": "Pause",
+    "dateLabel": "Replay date",
+    "observedToggle": "Actual flooding (satellite)",
+    "observedShort": "Flooding observed",
+    "caption": {
+      "high": "{count} districts at High risk",
+      "high_one": "1 district at High risk",
+      "none": "No districts at High risk",
+      "lead": "flooding observed {days} days later",
+      "lead_one": "flooding observed 1 day later",
+      "flooded": "{count} districts flooded",
+      "flooded_one": "1 district flooded"
+    },
+    "chart": {
+      "title": "Predicted flood risk, 1 Sep – 15 Oct 2025",
+      "threshold": "High (65%)",
+      "flooded": "Flooding observed",
+      "hint": "Click a district to see its risk timeline."
+    }
+  },
+  "alert": {
+    "district": "Farmer's district",
+    "showTranslation": "Show English translation",
+    "botName": "SrovSafe",
+    "botSubtitle": "Flood alerts · bot",
+    "inputPlaceholder": "Message",
+    "how": {
+      "title": "How it works",
+      "step1": "Every day the model forecasts flood risk for each district.",
+      "step2": "Farmers get a free alert in Khmer, with the reason and what to do.",
+      "step3": "Advice is only ever picked from a fixed list of safe actions."
+    }
+  },
+  "alertMsg": {
+    "high": {
+      "alert": "⚠️ FLOOD WARNING: {district}, {province}\nFlood risk is HIGH ({pct}). Highest on {peakDate} ({peakPct}).\nWhy: {driver}.\nWhat to do: {action}",
+      "question": "Should I harvest now?",
+      "reply": "If most of your grain is mature, yes: harvest in the next 1–2 days and dry the paddy on higher ground. If it is not mature yet, move seed and fertiliser to higher ground and wait for our next alert."
+    },
+    "medium": {
+      "alert": "🔔 FLOOD WATCH: {district}, {province}\nFlood risk is MEDIUM ({pct}). Highest on {peakDate} ({peakPct}).\nWhy: {driver}.\nSuggested: {action}",
+      "question": "Do I need to do anything now?",
+      "reply": "It is not urgent yet. {action} We will message you again if the risk turns High."
+    },
+    "low": {
+      "alert": "✅ {district}, {province}\nFlood risk is LOW ({pct}) for the next 10 days.\n{action}",
+      "question": "Is it safe to transplant this week?",
+      "reply": "Flood risk stays low for the next 10 days, so you can go ahead. We will alert you if anything changes."
+    }
+  },
+  "partners": {
+    "cards": {
+      "clients": "Total clients",
+      "clientsSub": "across {n} districts",
+      "highClients": "Clients in High-risk districts",
+      "highClientsSub": "{pct} of clients · {n} districts",
+      "value": "Portfolio value",
+      "exposure": "Exposure this week",
+      "exposureSub": "{pct} of portfolio exposed"
+    },
+    "table": {
+      "title": "Portfolio by district"
+    },
+    "export": "Export CSV",
+    "col": {
+      "district": "District",
+      "province": "Province",
+      "clients": "Clients",
+      "value": "Portfolio value (USD)",
+      "risk": "Risk level",
+      "peak7": "Peak risk (7 days)",
+      "exposure": "Exposure this week (USD)"
+    },
+    "csv": {
+      "probability": "Current probability",
+      "note": "DEMO DATA: all figures are mock values for a hackathon prototype."
+    },
+    "chart": {
+      "title": "Exposure by risk level",
+      "sub": "Exposure this week, grouped by each district's current risk level.",
+      "exposure": "Exposure",
+      "districts": "districts",
+      "clients": "clients"
+    },
+    "method": {
+      "title": "How exposure is calculated",
+      "body": "Exposure this week = portfolio value in a district × the highest flood probability forecast for that district in the next 7 days. Only districts whose peak reaches Medium or above (≥ 35%) are counted. Summed across districts."
+    }
+  },
+  "common": {
+    "comingSoon": "Coming in the next step.",
+    "demoData": "Demo data",
+    "loading": "Loading…"
+  }
+}
