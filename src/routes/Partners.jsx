@@ -65,7 +65,7 @@ function downloadCsv(rows, t, generatedAt) {
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
   a.href = url;
-  a.download = `srovsafe_portfolio_DEMO_${generatedAt}.csv`;
+  a.download = `thaedomnam_portfolio_DEMO_${generatedAt}.csv`;
   document.body.appendChild(a);
   a.click();
   a.remove();

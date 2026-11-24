@@ -1,6 +1,6 @@
-# SrovSafe: Flood Early Warning (demo website)
+# ThaeDomnam: Flood Early Warning (demo website)
 
-Hackathon prototype for **Open Data X AI Venture Hackathon 1.0**. SrovSafe forecasts flood risk per
+Hackathon prototype for **Open Data X AI Venture Hackathon 1.0**. ThaeDomnam forecasts flood risk per
 district and turns it into free Khmer alerts for rice farmers and risk data for lenders and insurers.
 
 > **All data in this app is mock data.** It is shaped like the real model output so it can be swapped later.

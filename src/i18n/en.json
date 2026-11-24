@@ -1,5 +1,5 @@
 {
-  "brand": "SrovSafe",
+  "brand": "ThaeDomnam",
   "tagline": "Flood early warning",
   "nav": {
     "dashboard": "Dashboard",
@@ -77,7 +77,7 @@
   "alert": {
     "district": "Farmer's district",
     "showTranslation": "Show English translation",
-    "botName": "SrovSafe",
+    "botName": "ThaeDomnam",
     "botSubtitle": "Flood alerts · bot",
     "inputPlaceholder": "Message",
     "how": {

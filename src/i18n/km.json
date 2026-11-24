@@ -1,6 +1,6 @@
 {
   "_review": true,
-  "brand": "SrovSafe",
+  "brand": "ThaeDomnam",
   "tagline": "ការព្រមានជាមុនពីទឹកជំនន់",
   "nav": {
     "dashboard": "ផ្ទាំងទិន្នន័យ",
@@ -78,7 +78,7 @@
   "alert": {
     "district": "ស្រុករបស់កសិករ",
     "showTranslation": "បង្ហាញការបកប្រែជាភាសាអង់គ្លេស",
-    "botName": "SrovSafe",
+    "botName": "ThaeDomnam",
     "botSubtitle": "ការជូនដំណឹងទឹកជំនន់ · បូត",
     "inputPlaceholder": "សរសេរសារ…",
     "how": {

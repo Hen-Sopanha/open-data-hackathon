@@ -1,4 +1,4 @@
-# SrovSafe: Flood Early Warning Demo Website (Project Context for Claude Code)
+# ThaeDomnam: Flood Early Warning Demo Website (Project Context for Claude Code)
 
 > **Read this whole file before writing any code.**
 > This is a **hackathon prototype** for a 2–3 minute demo video, not a production app.

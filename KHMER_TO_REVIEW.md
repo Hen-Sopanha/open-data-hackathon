@@ -138,7 +138,7 @@ In chat messages, `\n` is a line break and `{...}` parts are filled in automatic
 | --- | --- | --- | --- |
 | alert.district | Farmer's district | ស្រុករបស់កសិករ | ☐ |
 | alert.showTranslation | Show English translation | បង្ហាញការបកប្រែជាភាសាអង់គ្លេស | ☐ |
-| alert.botName | SrovSafe | SrovSafe | ☐ |
+| alert.botName | ThaeDomnam | ThaeDomnam | ☐ |
 | alert.botSubtitle | Flood alerts · bot | ការជូនដំណឹងទឹកជំនន់ · បូត | ☐ |
 | alert.inputPlaceholder | Message | សរសេរសារ… | ☐ |
 | alert.how.title | How it works | របៀបដំណើរការ | ☐ |

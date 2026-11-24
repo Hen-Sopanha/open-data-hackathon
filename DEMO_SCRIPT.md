@@ -15,7 +15,7 @@ Numbers marked **TODO** must come from our backtest. Don't say any other statist
 | Time | Screen | Action | Voice-over (suggestion) |
 | --- | --- | --- | --- |
 | 0:00 | Dashboard | Map visible, nothing selected | "In late September 2025, flooding affected more than 20,000 families and 10,000 hectares of rice across nine provinces. Farmers had little warning, and of Cambodia's 40 insurers only one offers crop insurance." |
-| 0:20 | Dashboard | Hover over the red districts along the Mekong | "SrovSafe forecasts flood risk for every district, 3 to 10 days ahead, from open data: CHIRPS rainfall, GloFAS river discharge, MRC water levels and Sentinel-1 satellite maps." |
+| 0:20 | Dashboard | Hover over the red districts along the Mekong | "ThaeDomnam forecasts flood risk for every district, 3 to 10 days ahead, from open data: CHIRPS rainfall, GloFAS river discharge, MRC water levels and Sentinel-1 satellite maps." |
 | 0:35 | Dashboard | Click **Peam Ro** | "For each district we show the risk, the next 10 days, why the model thinks so, and what a farmer should do." |
 | 0:55 | 2025 Replay | Open page, press **▶ Play** | "Here's how it would have worked in the 2025 flood. Colours are our predicted risk; blue hatching is flooding actually seen by satellite." |
 | 1:05 | 2025 Replay | Let it run; **pause around 15–16 Sep** (first red districts) | "On 15 September, districts turn red, and the caption shows flooding was observed about four days later." |
@@ -26,7 +26,7 @@ Numbers marked **TODO** must come from our backtest. Don't say any other statist
 | 2:05 | Farmer Alert | Pick a Low district in the dropdown (e.g. **Batheay**) | "Low risk gets a calm message, so alerts stay trusted." |
 | 2:15 | Partners | Open page, point at cards and chart | "The same risk data helps microfinance institutions and insurers see which part of their portfolio is exposed this week, here with demo data." |
 | 2:30 | Partners | Click a column header to sort, then **Export CSV** | "They can sort it, and export it." |
-| 2:35 | Any page | Click **ខ្មែរ** in the navbar | "The whole platform works in Khmer and English. SrovSafe: early warning for farmers, risk data for the institutions that support them." |
+| 2:35 | Any page | Click **ខ្មែរ** in the navbar | "The whole platform works in Khmer and English. ThaeDomnam: early warning for farmers, risk data for the institutions that support them." |
 
 ## Pages at a glance (if you need to improvise)
 
