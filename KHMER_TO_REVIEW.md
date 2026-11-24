@@ -195,3 +195,9 @@ Chrome cannot format Khmer dates itself, so these names are hard-coded. Edit the
 - Weekdays (Sun → Sat): អាទិត្យ, ច័ន្ទ, អង្គារ, ពុធ, ព្រហស្បតិ៍, សុក្រ, សៅរ៍ ☐
 - Short weekdays, used in the 10-day forecast boxes (Sun → Sat): អា, ច, អ, ពុ, ព្រ, សុ, ស ☐
 - Dates use Khmer digits, e.g. ២៣ វិច្ឆិកា ២០២៦ ☐
+
+## Mobile menu (src/i18n/km.json)
+
+| Key | English | Khmer (draft) | OK? |
+| --- | --- | --- | --- |
+| nav.menu | Menu | ម៉ឺនុយ | ☐ |

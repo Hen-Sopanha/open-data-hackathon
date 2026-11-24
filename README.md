@@ -14,8 +14,13 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:5173. Add `?lang=km` to any URL to open the app in Khmer
-(e.g. http://localhost:5173/replay?lang=km). The **EN | ខ្មែរ** toggle in the navbar also switches language.
+Open http://localhost:5173/open-data-hackathon/ (the app uses hash routing and the
+`/open-data-hackathon/` base path for GitHub Pages, so pages look like `…/#/replay`).
+Add `?lang=km` **before the `#`** to open the app in Khmer, e.g.
+http://localhost:5173/open-data-hackathon/?lang=km#/replay. The **EN | ខ្មែរ** toggle in the navbar also switches language.
+
+The layout works on desktop (designed for 1440×900 recording), tablet (≤ 1024px: panels stack under the map)
+and phone (≤ 640px: menu button, compact legend, sideways-scrolling table).
 
 Internet is needed while running: fonts come from Google Fonts and the map background from Esri.
 
@@ -23,10 +28,10 @@ Internet is needed while running: fonts come from Google Fonts and the map backg
 
 | Route | Page | What it shows |
 | --- | --- | --- |
-| `/` | Dashboard | District risk map (Prey Veng, Kandal, Kampong Cham) and a side panel with 10-day forecast, reasons and farmer action |
-| `/replay` | 2025 Replay | 1 Sep – 15 Oct 2025: predicted risk vs. satellite-observed flooding, with play button and per-district timeline |
-| `/alert` | Farmer Alert | Phone mock-up with the Khmer chat alert for the selected district |
-| `/partners` | Partners | Portfolio exposure for lenders/insurers: cards, sortable table, chart, CSV export |
+| `#/` | Dashboard | District risk map (Prey Veng, Kandal, Kampong Cham) and a side panel with 10-day forecast, reasons and farmer action |
+| `#/replay` | 2025 Replay | 1 Sep – 15 Oct 2025: predicted risk vs. satellite-observed flooding, with play button and per-district timeline |
+| `#/alert` | Farmer Alert | Phone mock-up with the Khmer chat alert for the selected district |
+| `#/partners` | Partners | Portfolio exposure for lenders/insurers: cards, sortable table, chart, CSV export |
 
 ## Data
 

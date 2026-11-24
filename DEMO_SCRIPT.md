@@ -3,7 +3,7 @@
 ## Before recording
 
 - Browser window **1440 × 900**, zoom 100%, bookmarks bar hidden. Internet on (fonts + map).
-- `npm run dev`, open http://localhost:5173.
+- `npm run dev`, open http://localhost:5173/open-data-hackathon/ (or the GitHub Pages link).
 - Open each page once beforehand so the map tiles are cached.
 - To restart the replay from 1 Sep, refresh `/replay`.
 - Keyboard: on the replay slider, ← / → move one day.

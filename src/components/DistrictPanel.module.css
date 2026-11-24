@@ -1,4 +1,5 @@
 .panel {
+  scroll-margin-top: 12px;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -170,6 +171,24 @@
   border-left: 4px solid var(--accent);
   padding: 12px 14px;
   border-radius: 8px;
+}
+
+@media (max-width: 1024px) {
+  .empty {
+    padding: 8px 0;
+  }
+  .emptyIcon {
+    display: none;
+  }
+}
+
+@media (max-width: 640px) {
+  .panel {
+    padding: 16px;
+  }
+  .name {
+    font-size: 20px;
+  }
 }
 
 .action p {

@@ -117,3 +117,22 @@
   color: #fff;
   font-size: 15px;
 }
+
+@media (max-width: 1024px) {
+  .phone {
+    height: 680px;
+  }
+}
+
+@media (max-width: 640px) {
+  .phone {
+    width: 100%;
+    max-width: 400px;
+    height: 620px;
+    padding: 8px;
+    border-radius: 36px;
+  }
+  .screen {
+    border-radius: 30px;
+  }
+}

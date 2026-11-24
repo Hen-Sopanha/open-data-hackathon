@@ -1,12 +1,13 @@
 {
   "_review": true,
   "brand": "SrovSafe",
-  "tagline": "ការបំរាមជាមុនពីទឹកជំនន់",
+  "tagline": "ការព្រមានជាមុនពីទឹកជំនន់",
   "nav": {
     "dashboard": "ផ្ទាំងទិន្នន័យ",
     "replay": "ទឹកជំនន់ ២០២៥",
     "alert": "សារជូនដំណឹងកសិករ",
-    "partners": "ដៃគូ"
+    "partners": "ដៃគូ",
+    "menu": "ម៉ឺនុយ"
   },
   "lang": {
     "label": "ភាសា"

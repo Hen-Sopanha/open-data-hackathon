@@ -1,4 +1,5 @@
-import { NavLink } from 'react-router-dom';
+import { useEffect, useState } from 'react';
+import { NavLink, useLocation } from 'react-router-dom';
 import { useI18n } from '../i18n/I18nContext.jsx';
 import LanguageToggle from './LanguageToggle.jsx';
 import styles from './Navbar.module.css';
@@ -12,13 +13,19 @@ const LINKS = [
 
 export default function Navbar() {
   const { t } = useI18n();
+  const [open, setOpen] = useState(false); // mobile menu
+  const location = useLocation();
+
+  // close the mobile menu after navigating
+  useEffect(() => setOpen(false), [location.pathname]);
+
   return (
     <header className={styles.bar}>
       <NavLink to="/" className={styles.brand}>
         <span className={styles.logo}>{t('brand')}</span>
         <span className={styles.tagline}>{t('tagline')}</span>
       </NavLink>
-      <nav className={styles.links}>
+      <nav id="main-nav" className={`${styles.links} ${open ? styles.open : ''}`}>
         {LINKS.map((l) => (
           <NavLink
             key={l.to}
@@ -31,6 +38,16 @@ export default function Navbar() {
         ))}
       </nav>
       <LanguageToggle />
+      <button
+        type="button"
+        className={styles.menuBtn}
+        aria-expanded={open}
+        aria-controls="main-nav"
+        aria-label={t('nav.menu')}
+        onClick={() => setOpen((o) => !o)}
+      >
+        <span aria-hidden>{open ? '✕' : '☰'}</span>
+      </button>
     </header>
   );
 }

@@ -12,7 +12,7 @@ export default function DistrictPanel({ district, risk, actions, drivers, onClos
 
   if (!district || !risk) {
     return (
-      <aside className={styles.panel}>
+      <aside id="district-panel" className={styles.panel}>
         <div className={styles.empty}>
           <div className={styles.emptyIcon} aria-hidden>⌖</div>
           <p>{t('panel.empty')}</p>
@@ -26,7 +26,7 @@ export default function DistrictPanel({ district, risk, actions, drivers, onClos
   const driverInfo = risk.drivers.map((id) => drivers.find((d) => d.id === id)).filter(Boolean);
 
   return (
-    <aside className={styles.panel}>
+    <aside id="district-panel" className={styles.panel}>
       <div className={styles.head}>
         <div>
           <h2 className={styles.name}>{pick(district, 'name')}</h2>

@@ -53,3 +53,61 @@
   color: var(--accent);
   background: var(--accent-soft);
 }
+
+.menuBtn {
+  display: none;
+  width: 40px;
+  height: 40px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* tablet: drop the tagline to make room */
+@media (max-width: 1024px) {
+  .bar {
+    gap: 16px;
+  }
+  .tagline {
+    display: none;
+  }
+}
+
+/* small tablet / phone: links move into a dropdown menu */
+@media (max-width: 860px) {
+  .bar {
+    position: relative;
+    padding: 0 16px;
+    gap: 12px;
+  }
+  .brand {
+    flex: 1;
+  }
+  .menuBtn {
+    display: grid;
+    place-items: center;
+  }
+  .links {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 1100; /* above Leaflet controls */
+    flex-direction: column;
+    gap: 2px;
+    padding: 8px 12px 12px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    box-shadow: 0 8px 16px rgba(16, 36, 46, 0.1);
+  }
+  .links.open {
+    display: flex;
+  }
+  .link {
+    padding: 12px 14px;
+  }
+}
